@@ -1,0 +1,311 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pink{
+    text-align: left;
+    background-color: pink;
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.pink span{
+    font-family: "Noto Color Emoji", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pink h2{
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+}
+
+.pink p{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1.5rem;
+}
+
+.purple{
+    text-align: left;
+    background-color: plum;
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.purple h2{
+    font-family: "Roboto", sans-serif;
+    font-size: 3rem;
+}
+
+.purple p{
+    font-family: "Nunito", sans-serif;
+    font-size: 1.5rem;
+}
+
+.blue{
+    text-align: left;
+    background-color: lightblue;
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.blue h2{
+    font-family: "Quattrocento", serif;
+    font-size: 3rem;
+}
+
+.blue p{
+    font-family: "Quattrocento Sans", sans-serif;
+    font-size: 1.5rem;
+}
+
+.green{
+    text-align: left;
+    background-color: greenyellow;
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.green h2{
+    font-family: "Karla", serif;
+    font-size: 3rem;
+}
+
+.green p{
+    font-family: "Inconsolata", sans-serif;
+    font-size: 1.5rem;
+}
+
+.yellow{
+    text-align: left;
+    background-color: yellow;
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.yellow h2{
+    font-family: "Sacramento", cursive;
+    font-size: 3rem;
+}
+
+.yellow p{
+    font-family: "Alice", serif;
+    font-size: 1.5rem;
+}
+
+.red{
+    text-align: left;
+    background-color: rgb(245, 83, 83);
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.red h2{
+    font-family: "Work Sans", sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.red p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+}
+
+.brown{
+    text-align: left;
+    background-color: rgb(190, 156, 112);
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.brown h2{
+    font-family: "Nunito", sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.brown p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+}
+
+.grey{
+    text-align: left;
+    background-color: rgb(216, 216, 216);
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.grey h2{
+    font-family: "PT Sans", sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.grey p{
+    font-family: "Cabin", sans-serif;
+    font-size: 1.5rem;
+}
+
+.orange{
+    text-align: left;
+    background-color: rgb(255, 190, 69);
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.orange h2{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.orange p{
+    font-family: "Cabin", sans-serif;
+    font-size: 1.5rem;
+}
+
+.black{
+    text-align: left;
+    background-color: black;
+    padding: 10rem 16rem;
+    margin: auto;
+    color: white;
+}
+
+.black h2{
+    font-family: "Raleway", sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.black p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+}
+
+.white{
+    text-align: left;
+    background-color: white;
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.white h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.white p{
+    font-family: "Oswald", sans-serif;
+    font-size: 1.5rem;
+}
+
+.beige{
+    text-align: left;
+    background-color: beige;
+    padding: 10rem 16rem;
+    margin: auto;
+}
+
+.beige h2{
+    font-family: "Abril Fatface", serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.beige p{
+    font-family: "Lato", sans-serif;
+    font-size: 1.5rem;
+}
+
+.dark-blue{
+    text-align: left;
+    background-color: darkblue;
+    padding: 10rem 16rem;
+    margin: auto;
+    color: white;
+}
+
+.dark-blue h2{
+    font-family: "Homemade Apple", cursive;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.dark-blue p{
+    font-family: "Raleway", sans-serif;
+    font-size: 1.5rem;
+}
+
+.maroon{
+    text-align: left;
+    background-color: maroon;
+    padding: 10rem 16rem;
+    margin: auto;
+    color: white;
+}
+
+.maroon h2{
+    font-family: "Playfair Display", serif;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.maroon p{
+    font-family: "Raleway", sans-serif;
+    font-size: 1.5rem;
+}
+
+.teal{
+    text-align: left;
+    background-color: teal;
+    padding: 10rem 16rem;
+    margin: auto;
+    color: white;
+}
+
+.teal h2{
+    font-family: "Permanent Marker", cursive;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.teal p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+}
